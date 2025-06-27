@@ -1,0 +1,8 @@
+[project.scripts]
+zeru-score       = "zeru_credit_score.main:main"
+zeru-sensitivity = "zeru_credit_score.scripts.run_sensitivity:main"
+[project]
+name        = "zeru-credit-score"
+version     = "0.1.0"            # ← **this** was missing
+description = "AI‐powered DeFi credit scoring"
+authors     = [ { name="You", email="you@example.com" } ]

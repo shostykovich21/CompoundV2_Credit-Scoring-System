@@ -1,4 +1,4 @@
-# Zeru Credit Score: A DeFi Creditworthiness Model
+# CompoundV2 Credit Scoring System: A DeFi Creditworthiness Model
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
